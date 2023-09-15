@@ -1,6 +1,6 @@
 {
-  "homepage": "https://dalibouali.github.io/portfolio",
-  "name": "developerfolio",
+  "homepage": "https://dalibouali.github.io/dali",
+  "name": "dali",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
