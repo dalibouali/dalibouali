@@ -25,7 +25,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Java / Spring / SpringBoot /Angular and some other cool libraries and frameworks."
   ),
-  resumeLink:"https://drive.google.com/file/d/11AgjSAqMmQR22lnmu4JVpN6EVGM_PWaF/view?usp=sharing", // Set to empty to hide the button
+  resumeLink:
+    "https://drive.google.com/file/d/11AgjSAqMmQR22lnmu4JVpN6EVGM_PWaF/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -375,7 +376,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Feel free to reach out if you want to discuss a project or simply want to say hello. My inbox is open for everyone!",
-  number: " + 42 160 8367914",
+  number: " + 46 160 8367914",
   email_address: "boualimohamed77@gmail.com"
 };
 
