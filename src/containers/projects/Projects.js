@@ -44,7 +44,7 @@ export default function Projects() {
     openSource.display
   ) {
     return (
-      <Suspense fallback={renderLoader()}>
+      
         <div className="main" id="opensource">
           <h1 className="project-title">Open Source Projects</h1>
           <div className="repo-cards-div-main">
@@ -66,7 +66,7 @@ export default function Projects() {
             newTab={true}
           />
         </div>
-      </Suspense>
+     
     );
   } else {
     return <FailedLoading />;

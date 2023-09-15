@@ -15,6 +15,31 @@ export default function Greeting() {
   if (!greeting.displayGreeting) {
     return null;
   }
+  function openPopup(url, width, height) {
+    if (!url) {
+      return;
+    }
+    
+    // Define the dimensions of the popup window (width and height).
+    width = width || 600; // You can set default values here.
+    height = height || 400;
+  
+    // Calculate the center position of the screen.
+    var left = (window.innerWidth - width) / 2;
+    var top = (window.innerHeight - height) / 2;
+  
+    // Open the popup window with specified dimensions and position.
+    var win = window.open(
+      url,
+      "_blank",
+      "width=" + width + ",height=" + height + ",left=" + left + ",top=" + top
+    );
+  
+    // Focus on the popup window.
+    if (win) {
+      win.focus();
+    }
+  }
   return (
     <Fade bottom duration={1000} distance="40px">
       <div className="greet-main" id="greeting">
@@ -46,7 +71,8 @@ export default function Greeting() {
                   <Button
                     text="See my resume"
                     newTab={true}
-                    href={greeting.resumeLink}
+                    onClick={() => openPopup(greeting.resumeLink,600,600)}
+                    
                   />
                 )}
               </div>
