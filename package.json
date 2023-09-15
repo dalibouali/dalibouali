@@ -1,8 +1,7 @@
 {
-  "homepage":"https://dalibouali.github.io/portfolio",
+  "homepage": "https://dalibouali.github.io/portfolio",
   "name": "developerfolio",
   "version": "0.1.0",
-  
   "private": true,
   "dependencies": {
     "colorthief": "^2.2.0",
@@ -20,8 +19,7 @@
     "sass": "^1.32.8"
   },
   "scripts": {
-      "predeploy": "npm run build",
-   
+    "predeploy": "npm run build",
     "start": "node fetch.js && react-scripts start",
     "build": "node fetch.js && react-scripts build",
     "deploy": "gh-pages -b master -d build",
