@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dalibouali/static/css/main.b48071bb.css",
-    "main.js": "/dalibouali/static/js/main.016b1499.js",
+    "main.js": "/dalibouali/static/js/main.db6675bf.js",
     "static/css/64.bba8fa55.chunk.css": "/dalibouali/static/css/64.bba8fa55.chunk.css",
     "static/js/64.f6b5ac99.chunk.js": "/dalibouali/static/js/64.f6b5ac99.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/dalibouali/static/css/769.b3cbb36b.chunk.css",
@@ -21,7 +21,7 @@
     "index.html": "/dalibouali/index.html",
     "static/media/talksCardBack.svg": "/dalibouali/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b48071bb.css.map": "/dalibouali/static/css/main.b48071bb.css.map",
-    "main.016b1499.js.map": "/dalibouali/static/js/main.016b1499.js.map",
+    "main.db6675bf.js.map": "/dalibouali/static/js/main.db6675bf.js.map",
     "64.bba8fa55.chunk.css.map": "/dalibouali/static/css/64.bba8fa55.chunk.css.map",
     "64.f6b5ac99.chunk.js.map": "/dalibouali/static/js/64.f6b5ac99.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/dalibouali/static/css/769.b3cbb36b.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.b48071bb.css",
-    "static/js/main.016b1499.js"
+    "static/js/main.db6675bf.js"
   ]
 }
