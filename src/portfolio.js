@@ -269,7 +269,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "See Demo",
-          url: "http://nextu.se/"
+          url: ""
         }
       ]
     }
