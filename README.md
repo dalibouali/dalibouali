@@ -1,7 +1,7 @@
 
 <!-- Your Name -->
 # [Mohamed Ali Bouali]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dalibouali/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-ali-bouali-969bba209/)
 
 
 Hello, world! 👋 I'm a passionate Software Engineer, always eager to learn and create. Welcome to my GitHub profile.
