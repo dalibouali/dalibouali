@@ -1,7 +1,7 @@
 
 <!-- Your Name -->
-# [Your Name]
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/mohamed-ali-bouali-969bba209/](https://www.linkedin.com/in/mohamed-ali-bouali-969bba209/)))
+# [Mohamed Ali Bouali]
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/mohamed-ali-bouali-969bba209/](https://www.linkedin.com/in/mohamed-ali-bouali-969bba209/)))
 
 
 Hello, world! 👋 I'm a passionate Software Engineer, always eager to learn and create. Welcome to my GitHub profile.
@@ -15,9 +15,10 @@ I'm a recent graduate with a strong passion for coding, problem-solving, and ope
 During my journey, I've already released some exciting projects, including:
 
 
-- 🌐 [Project 1]: [Library Management]
+- 🌐 [Project 1]: [Tax return web Application]
 - 🚀 [Project 2]: [Internships Plateform]
 - 💡 [Project 3]: [Medical Records Plateform}
+- 💻 [Project 4]: [Library Management]
 
 You can explore these projects and more in my repositories.
 
