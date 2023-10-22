@@ -1,7 +1,7 @@
 
 <!-- Your Name -->
 # [Mohamed Ali Bouali]
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/mohamed-ali-bouali-969bba209/](https://www.linkedin.com/in/mohamed-ali-bouali-969bba209/)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dalibouali/)
 
 
 Hello, world! 👋 I'm a passionate Software Engineer, always eager to learn and create. Welcome to my GitHub profile.
@@ -35,7 +35,7 @@ Here are some of the technologies I'm experienced with:
 
 ### How to Reach Me
 
-- 💬 [Email](boualimohamed77@gmail.com)
+- 💬 [Email](mailto:boualimohamed77@gmail.com)
 - 🌐 [Website](https://dalibouali.github.io/dalibouali/)
 
 ### Let's Connect
